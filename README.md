@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gianni Tibaldi</h1>
 <h3 align="center">I am an advanced student in telecommunications engineering at UNRC.</h3>
 
-- 🔭 I’m currently working on **CampusUNRC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
